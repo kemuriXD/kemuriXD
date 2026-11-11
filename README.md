@@ -1,7 +1,7 @@
 <a href="https://kemuri.vip/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp">
-    <img src="assets/banner-light.webp" alt="kemuri" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/kemuri-dark.webp">
+    <img src="assets/kemuri-light.webp" alt="kemuri" width="100%">
   </picture>
 </a>
 
