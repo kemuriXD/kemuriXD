@@ -12,6 +12,20 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kemuriXD&theme=dark&background=0D1117&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=kemuriXD&hide_border=true" alt="GitHub streak">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kemuriXD/kemuriXD/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/kemuriXD/kemuriXD/output/github-snake.svg" alt="snake eating my contribution graph" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://views.kemuri.vip/views.svg?theme=dark">
     <img src="https://views.kemuri.vip/views.svg" alt="profile views">
   </picture>
